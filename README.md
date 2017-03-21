@@ -1,6 +1,6 @@
 # DU
 <html>
-<table backgroung="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjJ7ezC_7rSAhWDuo8KHcLnBjcQjRwIBQ&url=http%3A%2F%2Fdu.ac.in%2F&psig=AFQjCNEua9JIEYveUfoL8rRcWVoxiNtNpA&ust=1488653217195506" >
+<table backgroung=https://www.google.co.in/search?q=image+of+delhi+university&espv=2&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwilvpCL7efSAhXMK48KHSA9BEUQ7AkIOQ&biw=1366&bih=638#imgrc=Y4lTvLiGwFxJ7M: >
 <tr>
 <th colspan="3">Delhi University</th>
 </tr><tr>
