@@ -1,6 +1,6 @@
 # DU
 <html>
-<table backgroung=https://www.google.co.in/search?q=image+of+delhi+university&espv=2&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwilvpCL7efSAhXMK48KHSA9BEUQ7AkIOQ&biw=1366&bih=638#imgrc=Y4lTvLiGwFxJ7M: >
+<table>
 <tr>
 <th colspan="3">Delhi University</th>
 </tr><tr>
