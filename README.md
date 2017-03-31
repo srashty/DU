@@ -2,7 +2,7 @@
 <html>
 <table>
 <tr>
-<th colspan="3">Delhi University</th>
+<th colspan="3"><marquee direction="right">Delhi University</marquee></th>
 </tr><tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
