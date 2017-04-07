@@ -1,6 +1,7 @@
 # DU
 <html>
 <img src="https://upload.wikimedia.org/wikipedia/en/8/84/University_of_Delhi.png">
+<head>
 <script type="text/javascript" src="http://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
 google.charts.load("current", {packages:["corechart"]});
@@ -14,7 +15,7 @@ var data = google.visualisation.arrayToDataTable([
 ['Image' , 20],
 ['Other' , 10]
 ]);
-var options ={
+var options = {
 title: 'OVERVIEW',
 is 30: true,
 };
