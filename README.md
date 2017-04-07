@@ -97,7 +97,7 @@
 </tr>
 <tr>
 <th>backlinks</th>
-<td colspan="4">it contains more than 70 backlinks like "http://gojobx.in/delhi-university/cut-off" , "http://wwww.career/splus-in/delhi-university-result/"</td>
+<td colspan="4">it contains more than 70 backlinks like "http://gojobx.in/delhi-university/cut-off" , "http://wwww.careersplus-in/delhi-university-result/"</td>
 </tr>
 <tr>
 <th>pagerank</th>
@@ -111,4 +111,5 @@
 <td colspan="2">95%</td>
 </tr>
 </table>
-</html
+</html>
+To go to this website click----><a href="http://www.du.ac">Delhi University</a>
