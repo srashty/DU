@@ -1,5 +1,6 @@
 # DU
 <html>
+<img src="https://upload.wikimedia.org/wikipedia/en/8/84/University_of_Delhi.png">
 <table>
 <tr>
 <th colspan="3"><marquee direction="right">Delhi University</marquee></th>
