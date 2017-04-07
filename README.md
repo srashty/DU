@@ -97,7 +97,7 @@
 </tr>
 <tr>
 <th>backlinks</th>
-<td colspan="4">it contains more than 70 backlinks like "http://gojobx.in/delhi-university/cut-off" , "http://wwww.careersplus-in/delhi-university-result/"</td>
+<td colspan="4">it contains more than 70 backlinks like "http://gojobx.in/delhi-university/cut-off" ></td>
 </tr>
 <tr>
 <th>pagerank</th>
