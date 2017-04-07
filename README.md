@@ -1,6 +1,15 @@
 # DU
 <html>
 <img src="https://upload.wikimedia.org/wikipedia/en/8/84/University_of_Delhi.png">
+function drawChart() {
+var data = google.visualisation.arrayToDataTable([
+['Elements' , 'content'],
+['PDF' , 25],
+['Javascript' , 5],
+['HTML' , 50],
+['Image' , 20],
+['Other' , 10]
+]);
 <table>
 <tr>
 <th colspan="3"><marquee direction="right">Delhi University</marquee></th>
