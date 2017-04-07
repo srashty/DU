@@ -1,28 +1,6 @@
 # DU
 <html>
 <img src="https://upload.wikimedia.org/wikipedia/en/8/84/University_of_Delhi.png">
-<head>
-<script type="text/javascript" src="http://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-google.charts.load("current", {packages:["corechart"]});
-google.charts.setOnLoadCallback(drawChart);
-function drawChart() {
-var data = google.visualisation.arrayToDataTable([
-['Elements' , 'content'],
-['PDF' , 25],
-['Javascript' , 5],
-['HTML' , 50],
-['Image' , 20],
-['Other' , 10]
-]);
-var options = {
-title: 'OVERVIEW',
-is 30: true,
-};
-var chart= new google.visualisation.Piechart(document.getElementById('piechart_3d'));
-chart.draw(data, options);
-}
-</script>
 <table>
 <tr>
 <th colspan="3"><marquee direction="right">Delhi University</marquee></th>
