@@ -20,9 +20,9 @@
 </tr>
 <tr>
 <th>Meta description</th>
-<td>found</td>
-<td>200</td>
-<td>this webpage contains 30characters in meta description, it should have 60characters in meta description</td>
+<td>not found</td>
+<td>404</td>
+<td>this webpage doe not contain meta description, it should have 60characters in meta description</td>
 <td>Webpages of this site contains the information about various colleges under this university.This university is located in New Delhi.It was founded in 1922. </td>
 </tr>
 <tr>
@@ -35,14 +35,14 @@
 <td>not found</td>
 <td>404</td>
 <td>h1,h2</td>
-<td>this webpage does not contains h1,h2</td>
+<td>this webpage does not contains h1,it contains h2 like study at DU, About DU</td>
 </tr>
 <tr>
 <th>gzip compression</th>
-<td>found</td>
-<td>200</td>
-<td>should be compressed</td>
-<td>this webpage is compressed</td>
+<td>not found</td>
+<td>404</td>
+<td>this webpage is not compressed</td>
+<td>webpage should be compressed</td>
 </tr>
 <tr>
 <th>keywords</th>
@@ -57,9 +57,9 @@
 </tr>
 <tr>
 <th>Robots.txt test</th>
-<td>not found</td>
-<td>404</td>
-<td colspan="2">this webpage does not use robots.txt</td>
+<td> found</td>
+<td>200</td>
+<td colspan="2">this webpage use robots.txt</td>
 </tr>
 <tr>
 <th>Sitemap</th>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <th>seo friendly</th>
-<td colspan="3">this is seo friendly </td>
+<td colspan="3">this is not seo friendly </td>
 <td>any webpage must not contain uppercase letters,underscores etc</td>
 </tr>
 <tr>
@@ -88,7 +88,10 @@
 </tr>
 <tr>
 <th>HTML Deprecated tags</th>
-<td colspan="4">there is no deprecated HTML tag which is goof for your website.</td>
+<td>found<td>
+<td>200</td>
+<td>there are deprecated HTML tag which is not good for your website.</td>
+<td>your webpage must not contain deprecated HTML tags</td>
 </tr>
 <tr>
 <th>HTML page size</th>
@@ -105,6 +108,36 @@
 <tr>
 <th>domain</th>
 <td colspan="2">du.ac</td>
+</tr>
+<tr>
+<th>no index tag</th>
+<td>not found</td>
+<td>404</td>
+<td>your webpage does not use noindex tag</td>
+<td>your webpage can be read and index by search engine</td>
+</tr>
+<tr>
+<th>
+favicon
+</th>
+<td>found</td>
+<td>200</td>
+<td colspan="2"> your webpage use favicon which is goog</td>
+</tr>
+<tr>
+<th>redirection tag
+</th>
+<td>not found</td>
+<td>200</td>
+<td>your webpage does not use redirection tag</td>
+<td>if you use redirection tag in your webpage you can redirect traffic like you can use du.ac.in as an another URL to redirect traffic</td>
+</tr>
+<tr>
+<th>inline css
+</th>
+<td>found</td>
+<td>200</td>
+<td colspan="2">your webpage uses 134 inline css style</td>
 </tr>
 <tr>
 <th>SEO Score</th>
