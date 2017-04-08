@@ -88,7 +88,7 @@
 </tr>
 <tr>
 <th>HTML Deprecated tags</th>
-<td>found<td>
+<td>found</td>
 <td>200</td>
 <td>there are deprecated HTML tag which is not good for your website.</td>
 <td>your webpage must not contain deprecated HTML tags</td>
